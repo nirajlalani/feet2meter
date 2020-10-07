@@ -1,2 +1,2 @@
-# feet2meter
-convert height from feet to meter
+## feet2meter
+Application to convert height from feet to meter
